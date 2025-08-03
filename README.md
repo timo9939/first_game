@@ -1,12 +1,6 @@
-# My Godot Project
+# My First Game Project
 
-A brief description of your game.
+Control RPG and character
 
-## Features
-- Feature 1
-- Feature 2
-
-## Installation
-1. Clone this repository
-2. Open in Godot 4.x
+![godot screenshot](/game1/icon.svg)
 
